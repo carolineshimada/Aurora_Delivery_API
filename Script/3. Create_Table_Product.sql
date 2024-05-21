@@ -1,0 +1,6 @@
+CREATE TABLE Product (
+    Id BIGINT IDENTITY(1,1) PRIMARY KEY,
+    Name VARCHAR(100) NOT NULL,
+    Description VARCHAR(255),
+    Price DECIMAL(10, 2) NOT NULL
+);
