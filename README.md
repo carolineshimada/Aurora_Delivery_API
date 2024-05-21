@@ -2,7 +2,7 @@
 
 ## Architecture
 
-For this project, we utilized Domain Driven Design (DDD), a software modeling approach aimed at simplifying the implementation of business rules and complex processes by dividing responsibilities into layers.
+For this project, i utilized Domain Driven Design (DDD), a software modeling approach aimed at simplifying the implementation of business rules and complex processes by dividing responsibilities into layers.
 
 ## Overview of Layers
 
@@ -31,7 +31,7 @@ Divided into two sub-layers:
 
 ## Database
 
-For this project, we used SQL Server. The "Scripts" folder contains the scripts used for database implementation.
+For this project, i used SQL Server. The "Scripts" folder contains the scripts used for database implementation.
 
 ## Project Planning and Status
 
