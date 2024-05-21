@@ -1,11 +1,6 @@
 ﻿using AuroraDelivery.Domain.Entities;
 using AuroraDelivery.Domain.Interface;
 using AuroraDelivery.Domain.Interface.Repository.AuroraDelivery.Domain.Interfaces.Repositories;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace AuroraDelivery.Service.Services
 {

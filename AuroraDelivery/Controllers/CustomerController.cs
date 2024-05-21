@@ -1,6 +1,5 @@
 ﻿using AuroraDelivery.Domain.Entities;
 using AuroraDelivery.Domain.Interface;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AuroraDelivery.Controllers

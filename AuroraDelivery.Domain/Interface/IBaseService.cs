@@ -1,7 +1,4 @@
-﻿using AuroraDelivery.Domain.Entities;
-using FluentValidation;
-
-namespace AuroraDelivery.Domain.Interface
+﻿namespace AuroraDelivery.Domain.Interface
 {
     public interface IBaseService<T> where T : class
     {

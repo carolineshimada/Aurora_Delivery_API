@@ -1,5 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
-using AuroraDelivery.Domain.Entities;
+﻿using AuroraDelivery.Domain.Entities;
+using Microsoft.EntityFrameworkCore;
 
 namespace AuroraDelivery.Infra.Data
 {
