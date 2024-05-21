@@ -36,3 +36,11 @@ For this project, i used SQL Server. The "Scripts" folder contains the scripts u
 ### Project Planning and Status
 
 The creation of the layers and the database configuration have been successfully completed. The project is currently in progress, with the next steps focusing on the development and integration of the API functionalities, as well as continuous testing and validation to ensure the quality and efficiency of the system.
+
+
+| Day/Topic 1 | Status |
+|----------|----------|
+|  1 - Layers | Done |
+|  2 - Database Connection | Done |
+| 4 - Creating customers PUT, DELETE and GETbyId.  | In progress |
+| 3 - Creating order, orderitams and product crud. |     |
