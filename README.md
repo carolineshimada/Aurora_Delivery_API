@@ -1,6 +1,6 @@
 # Aurora_Delivery_API Restful
 
-## Architecture
+# Layered Architecture
 
 For this project, i utilized Domain Driven Design (DDD), a software modeling approach aimed at simplifying the implementation of business rules and complex processes by dividing responsibilities into layers.
 
