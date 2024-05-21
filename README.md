@@ -1,4 +1,4 @@
-# Aurora_Delivery_API
+# Aurora_Delivery_API Restful
 
 ## Architecture
 
