@@ -1,10 +1,10 @@
 # Aurora_Delivery_API Restful
 
-## Layered Architecture
+### Layered Architecture
 
 For this project, i utilized Domain Driven Design (DDD), a software modeling approach aimed at simplifying the implementation of business rules and complex processes by dividing responsibilities into layers.
 
-## Overview of Layers
+### Overview of Layers
 
 ![image](https://github.com/carolineshimada/Aurora_Delivery_API/assets/71412867/9229e9b0-cfdf-4350-aef9-f59b8740911c)
 
@@ -29,10 +29,10 @@ Divided into two sub-layers:
 
 
 
-## Database
+### Database
 
 For this project, i used SQL Server. The "Scripts" folder contains the scripts used for database implementation.
 
-## Project Planning and Status
+### Project Planning and Status
 
 The creation of the layers and the database configuration have been successfully completed. The project is currently in progress, with the next steps focusing on the development and integration of the API functionalities, as well as continuous testing and validation to ensure the quality and efficiency of the system.
