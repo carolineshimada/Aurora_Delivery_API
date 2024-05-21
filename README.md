@@ -43,4 +43,4 @@ The creation of the layers and the database configuration have been successfully
 |  1 - Layers | Done |
 |  2 - Database Connection | Done |
 | 4 - Creating customers PUT, DELETE and GETbyId.  | In progress |
-| 3 - Creating order, orderitams and product crud. |     |
+| 3 - Creating Order, OrderItems and Product crud. |     |
